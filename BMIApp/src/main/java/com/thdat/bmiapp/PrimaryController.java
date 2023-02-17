@@ -11,6 +11,4 @@ public class PrimaryController {
         if (b == 5)
             App.setRoot("secondary");
 
-    }
-    
-}
+}}
