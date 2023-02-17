@@ -10,7 +10,7 @@ public class PrimaryController {
         int a = 10;
         if (a > 10)
         {
-                    App.setRoot("secondary");
+            a = a + 10;
         }
     }
 }
